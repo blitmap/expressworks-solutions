@@ -1,0 +1,31 @@
+{
+  "name": "expressworks-solutions",
+  "version": "1.0.0",
+  "description": "solutions to the expressworks exercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/blitmap/expressworks-solutions.git"
+  },
+  "keywords": [
+    "expressworks",
+    "express",
+    "coffeescript",
+	"pug",
+	"stylus"
+  ],
+  "author": "blitmap",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blitmap/expressworks-solutions/issues"
+  },
+  "homepage": "https://github.com/blitmap/expressworks-solutions#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "pug": "^2.0.0-beta.12",
+    "stylus": "^0.54.5"
+  }
+}
